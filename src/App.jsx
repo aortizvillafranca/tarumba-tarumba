@@ -9,14 +9,14 @@ import { getStorage, ref, uploadBytes, getDownloadURL } from 'firebase/storage';
 
 // --- CONFIGURACIÓN DE FIREBASE ---
        const firebaseConfig = {
-  apiKey: "AIzaSyCkIQCKgUmGKTs8VtTBnbZ3L89M7TM0hV4",
-  authDomain: "project-6852396288823438226.firebaseapp.com",
-  projectId: "project-6852396288823438226",
-  storageBucket: "project-6852396288823438226.firebasestorage.app",
-  messagingSenderId: "1082758216100",
-  appId: "1:1082758216100:web:d40c2a0f7380ef3c7c6931",
-  measurementId: "G-2DG5P6GLNG"
+  apiKey: "AIzaSyAW0r-_9IGddjXHQyLaRdseT_rTv9tSozg",
+  authDomain: "tarumba-shop.firebaseapp.com",
+  projectId: "tarumba-shop",
+  storageBucket: "tarumba-shop.firebasestorage.app",
+  messagingSenderId: "380892951034",
+  appId: "1:380892951034:web:f690f661fdc6d74549b443"
 };
+
 
 const appId = "tarumba-store-v1";
 
